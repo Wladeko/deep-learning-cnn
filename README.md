@@ -1,6 +1,11 @@
-# Deep learning course - project I
+# Image Classification with CNNs
 
-This repository contains code needed to reproduce the results for project I of the Deep Learning course.
+This repository contains code needed to reproduce the results for `Project I` of the Deep Learning course.
+
+Check the other projects:
+
+- [Project II](https://github.com/Wladeko/deep-learning-rnn) - Speech Commands Recognition with RNNs
+- [Project III](https://github.com/Wladeko/deep-learning-gan) - Image Generation with GANs
 
 ---
 ## Description
